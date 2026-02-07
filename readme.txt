@@ -1,0 +1,1 @@
+run maindemo_AFMVSC.m to conduct AFMVSC on Mfeat dataset.
